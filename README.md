@@ -1,5 +1,3 @@
 # The Odin Project (TOP) Recipes
 
----
-permalink: /index.html
----
+This is a simple html page for recipes.
